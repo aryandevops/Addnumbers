@@ -23,6 +23,8 @@ namespace Adding2Numbers
             Console.WriteLine(num3);
             Console.ReadLine();
 
+            int num4;
+
 
         }
     }
